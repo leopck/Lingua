@@ -1,6 +1,6 @@
 ## Lingua
 
-A language based machine learning system. Teaching a machine languages. 
+A language based machine learning system. Teaching a machine languages. A framework for control, question & response, response assertion, translation, audio to text.
 
 # Features
 
