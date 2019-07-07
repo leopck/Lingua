@@ -1,2 +1,2 @@
 all: 
-	echo "Success!"
+	python main.py
