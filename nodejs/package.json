@@ -1,0 +1,28 @@
+{
+  "name": "lingua",
+  "version": "1.0.0",
+  "description": "Language based framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leopck/Lingua.git"
+  },
+  "keywords": [
+    "lingua",
+    "language",
+    "chatbot",
+    "framework"
+  ],
+  "author": "Phoong, Stanley Cheong Kwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leopck/Lingua/issues"
+  },
+  "homepage": "https://github.com/leopck/Lingua#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
