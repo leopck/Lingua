@@ -1,31 +1,28 @@
 {
-  "name": "boilerplate-node-restful-task",
+  "name": "lingua",
   "version": "1.0.0",
-  "description": "A nodejs express boilerplate implementation of a RESTful API that is able to execute task that is programed for it. Task are programmable and will be shown as a RESTful API.",
+  "description": "lingua is a chatbot that teaches people languages",
   "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
   "scripts": {
-    "test": "nodemon ./bin/www"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leopck/boilerplate-node-restful-task.git"
+    "url": "git+https://github.com/leopck/Lingua.git"
   },
   "keywords": [
-    "restful",
-    "nodejs",
-    "express",
-    "task",
-    "execution"
+    "chatbot",
+    "language",
+    "education"
   ],
   "author": "Stanley Phoong Cheong Kwan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/leopck/boilerplate-node-restful-task/issues"
+    "url": "https://github.com/leopck/Lingua/issues"
   },
-  "homepage": "https://github.com/leopck/boilerplate-node-restful-task#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "jenkins-api": "^0.3.1",
-    "twilio": "^3.33.1"
-  }
+  "homepage": "https://github.com/leopck/Lingua#readme"
 }
