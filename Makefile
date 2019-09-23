@@ -1,12 +1,6 @@
 all: 
-	python main.py
+	node index.js
 
-freeze:
-	pip freeze > requirements.txt
+deps-install:
+	npm install
 
-commit:
-	git add .
-	git commit -s
-
-push:
-	git push origin master
